@@ -1,5 +1,7 @@
 # BrightBridge Tech Company
 
+BrightBridge Tech Company – A responsive multi-page site built with HTML, CSS, Formspree, and deployed on Netlify. Created as an intern project.
+
 This is a responsive, multi-page website designed and developed as part of an internship project. The website reproduces and modifies provided UI mockups, showcasing clean layouts, a contact form, and modern front-end design.
 
 ## 🔍 Overview
